@@ -38,6 +38,6 @@ This [campus restroom map](../../files/2020-08-26_single-stall-restroom-map-web
 - East Residence Hall (Accessible)
 - West Residence Hall
 
-[![single stall restroom map](../../files/imgs/2020-08-26_single-stall-restroom-map-web-1024x1583.jpg)](../../files/imgs/2020-08-26_single-stall-restroom-map-web.png)
+[![single stall restroom map](../../files/imgs/2020-08-26_single-stall-restroom-map-web-small.jpg)](../../files/imgs/2020-08-26_single-stall-restroom-map-web.png)
 
 Single Stall Restroom Map

@@ -4,3 +4,5 @@ site
 nohup.out
 .venv
 .venv-tower
+
+.DS_STORE*

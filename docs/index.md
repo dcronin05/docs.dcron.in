@@ -23,9 +23,9 @@
 
 <div class="grid cards" markdown>
 
-- ## **:custom-mdbook:{ .lg }** mdbooks
+- ## mdbooks
 
-    __Regulations__
+    __Regulations__  **:custom-mdbook:{ .lg }**
 
     ---
 
@@ -33,7 +33,7 @@
 
         [DAFI 31-101 Integrated Defense](https://cronin.one/work/regs/dafi31-101/toc.html)
 
-    __Training__
+    __Training__  **:custom-mdbook:{ .lg }**
 
     --- 
     

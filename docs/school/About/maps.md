@@ -11,7 +11,7 @@ Little Rock, AR 72204
 
 Campus Map
 
-[![UA Little Rock Parking Map](../../files/imgs/Screenshot-2024-09-06-at-4.16.39-PM.webp)](../../files/Parking-Map-2024.pdf)
+[![UA Little Rock Parking Map](../../files/imgs/2020-08-26_single-stall-restroom-map-web.png)](../../files/Parking-Map-2024.pdf)
 
 Parking Map
 

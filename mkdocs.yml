@@ -2,7 +2,7 @@ site_name: dcron.in
 site_url: http://docs.dcron.in
 
 plugins:
-  - mkdocs-caption
+  - caption
   - tags:
       tags_file: tags.md
   - include-markdown

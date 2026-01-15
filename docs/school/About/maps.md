@@ -7,7 +7,7 @@ Little Rock, AR 72204
 
 [View information on parking permits](https://ualr.edu/safety/home/campus-parking/).
 
-[![UA Little Rock Campus Map](../../files/imgs/Campus-Map-2024-Digital-1.jpg)](../../files/UA-Little-Rock-Campus-Map-2022-Digital.pdf)
+[![UA Little Rock Campus Map](../../files/imgs/2020-08-26_single-stall-restroom-map-web.png)](../../files/UA-Little-Rock-Campus-Map-2022-Digital.pdf)
 
 Campus Map
 

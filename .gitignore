@@ -1,0 +1,6 @@
+site
+.idea
+.env
+nohup.out
+.venv
+.venv-tower

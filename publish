@@ -1,0 +1,8 @@
+#!/bin/bash
+
+source .venv/bin/activate
+mkdocs build -d /tower/appdata/swag/www/work/docs/
+
+git pull github
+git pull gitea
+./push

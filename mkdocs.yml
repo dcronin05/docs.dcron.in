@@ -1,0 +1,79 @@
+site_name: dcron.in
+site_url: http://docs.dcron.in
+
+plugins:
+  - tags:
+      tags_file: tags.md
+  - include-markdown
+  - search
+  - thumbnails
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+  - javascripts/copy_template.js
+
+markdown_extensions:
+  - toc:
+      permalink: "&#x1F517;"
+  - md_in_html
+  - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite:
+  - pymdownx.snippets:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - markdown.extensions.attr_list
+
+theme:
+  favicon: favicon.png
+  icon:
+    logo: custom/logo
+    annotation: material/plus-circle-outline
+    admonition:
+      abstract: custom/square-phone-solid
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: slate
+    primary: dcronin
+    accent: dcronin
+
+  features:
+    - content.code.select
+    - content.code.copy
+    - content.code.select
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.tracking
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - search.highlight
+    - search.suggest

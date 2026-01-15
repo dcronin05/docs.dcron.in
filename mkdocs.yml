@@ -2,9 +2,9 @@ site_name: dcron.in
 site_url: http://docs.dcron.in
 
 plugins:
-  - mkdocs-image-captions
   - tags:
       tags_file: tags.md
+  - mkdocs-image-captions
   - include-markdown
   - search
   - thumbnails

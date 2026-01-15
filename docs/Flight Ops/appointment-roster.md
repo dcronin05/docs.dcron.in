@@ -1,9 +1,0 @@
-
-# Appointment Roster
-
-## 22 November 2024
-
-| Name                      | Course Name  | Description                                                                                                                                                                                                                                                                                                                                                                                                  | Appointment Time | Date      |
-| ------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | --------- |
-| GREENE, LAKEISHA SHAKURRA | FITNESS TEST | Enure your FSQ is already filled out at time off appointment, show up in PT gear, and bring a water source. If you are on a profile/waiver, have it on hand. Report to S1 (TSgt Doan)                                                                                                                                                                                                                        | 9:00             | 3-Dec-24  |
-| SANDOVAL, JUSTIN          | CBRN         | Report to: BLDG 1430 from (0730-1430) Required Gear: Gas mask, canteen w/ BLACK CAP, internal drinking tube, full set of MOPP gear (jacket, pants, inner gloves, outer gloves & over boots and web belt) Duty Vest AND Helmet! If you are missing gear, go to BLDG 430 to get it issued. If you are missing any required items, you will be TURNED AWAY (marked a NO-SHOW). (MUST HAVE CRBN MFR TO GET GEAR) | 7:30             | 26-Nov-24 |

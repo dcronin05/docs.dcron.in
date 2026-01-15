@@ -3,8 +3,8 @@ site_url: http://docs.dcron.in
 
 plugins:
   - caption:
-    figure:
-      enable: false
+      figure:
+        enable: false
   - tags:
       tags_file: tags.md
   - include-markdown

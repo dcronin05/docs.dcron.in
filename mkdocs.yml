@@ -4,7 +4,7 @@ site_url: http://docs.dcron.in
 plugins:
   - tags:
       tags_file: tags.md
-  - mkdocs-image-captions
+  - mkdocs-caption
   - include-markdown
   - search
   - thumbnails

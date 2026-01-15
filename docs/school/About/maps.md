@@ -7,11 +7,11 @@ Little Rock, AR 72204
 
 [View information on parking permits](https://ualr.edu/safety/home/campus-parking/).
 
-[![UA Little Rock Campus Map](/files/imgs/Campus-Map-2024-Digital-1.jpg)](/files/UA-Little-Rock-Campus-Map-2022-Digital.pdf)
+[![UA Little Rock Campus Map](../../files/imgs/Campus-Map-2024-Digital-1.jpg)](../../files/UA-Little-Rock-Campus-Map-2022-Digital.pdf)
 
 Campus Map
 
-[![UA Little Rock Parking Map](/files/imgs/Screenshot-2024-09-06-at-4.16.39-PM.webp)](/files/Parking-Map-2024.pdf)
+[![UA Little Rock Parking Map](../../files/imgs/Screenshot-2024-09-06-at-4.16.39-PM.webp)](../../files/Parking-Map-2024.pdf)
 
 Parking Map
 
@@ -19,7 +19,7 @@ Parking Map
 
 ## Single Stall Restrooms on Campus
 
-This [campus restroom map](/files/imgs/2020-08-26_single-stall-restroom-map-web.pdf "PDF") shows where all single stall restrooms are located on campus. The sites include:
+This [campus restroom map](../../files/2020-08-26_single-stall-restroom-map-web.pdf "PDF") shows where all single stall restrooms are located on campus. The sites include:
 
 **Open Access Single Stall Restrooms:**
 
@@ -38,6 +38,6 @@ This [campus restroom map](/files/imgs/2020-08-26_single-stall-restroom-map-web
 - East Residence Hall (Accessible)
 - West Residence Hall
 
-[![single stall restroom map](/files/imgs/2020-08-26_single-stall-restroom-map-web-1024x1583.jpg)](/files/imgs/2020-08-26_single-stall-restroom-map-web.png)
+[![single stall restroom map](../../files/imgs/2020-08-26_single-stall-restroom-map-web-1024x1583.jpg)](../../files/imgs/2020-08-26_single-stall-restroom-map-web.png)
 
 Single Stall Restroom Map

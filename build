@@ -1,4 +1,4 @@
-#!/bin/bsh
+#!/bin/sh
 
 git pull github
 source ~/.venv/bin/activate

@@ -23,7 +23,7 @@
 
 <div class="grid cards" markdown>
 
-- ## mdbooks **:custom-mdbook:{ .lg .middle }**
+- ## **:custom-mdbook:{ .lg }** mdbooks
 
     __Regulations__
 

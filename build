@@ -1,5 +1,5 @@
 #!/bin/sh
 
-git pull github
+git pull
 source ~/.venv/bin/activate
 mkdocs build -d /var/www/html/

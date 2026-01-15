@@ -9,14 +9,6 @@
 
         **[Appointment Roster](<Flight Ops/appointment-roster.md>)**
 
-        **[Uniform Policy](<References/uniform_policy.md>)**
-
-        **[AFDL Test Questions](<AFDL/test_questions.md>)**
-
-        **[Significant Incident List](<Flight Ops/Blotters/significant_incidents.md>)**
-
-        **[Blotter Email Template](<Flight Ops/Blotters/template.md>)**
-
     === "Files"
         
         [**:fontawesome-regular-file-pdf:**{.lg .middle} Canned Entries](files/19_SFS_Blotter_Template-Canned_Entries.pdf)

@@ -1,4 +1,4 @@
-# About UA Little Rock
+# UALR Address
 
 ## Contact Information
 

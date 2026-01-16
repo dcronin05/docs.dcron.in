@@ -1,3 +1,10 @@
+---
+tags:
+  - UALR
+  - School
+  - Wiki
+---
+
 Welcome to the University of Arkansas at Little Rock. Our campus is where students gather to learn, study, play, and interact. Stretching over 250 tree-covered acres in Little Rock’s midtown area, the main campus is home to more than 50 buildings, including many with LEED designations for their energy efficiency.
 
 **Address:**  

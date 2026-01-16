@@ -5,8 +5,6 @@ tags:
   - Wiki
 ---
 
-Welcome to the University of Arkansas at Little Rock. Our campus is where students gather to learn, study, play, and interact. Stretching over 250 tree-covered acres in Little Rock’s midtown area, the main campus is home to more than 50 buildings, including many with LEED designations for their energy efficiency.
-
 **Address:**  
 2801 S. University Ave.  
 Little Rock, AR 72204
@@ -16,11 +14,7 @@ Little Rock, AR 72204
 
 [![UA Little Rock Campus Map](../../files/imgs/Campus-Map-2024-Digital-1.jpg)](../../files/UA-Little-Rock-Campus-Map-2022-Digital.pdf)
 
-Campus Map
-
 [![UA Little Rock Parking Map](../../files/imgs/Screenshot-2024-09-06-at-4.webp)](../../files/Parking-Map-2024.pdf)
-
-Parking Map
 
 ---
 

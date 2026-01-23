@@ -39,6 +39,6 @@
     
     === "AFDL"
 
-        [AFDL Test Questions](/share/afdl)
+        [AFDL Test Questions](/start)
 </div>
 </div>

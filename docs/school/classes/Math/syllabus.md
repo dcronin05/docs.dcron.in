@@ -72,7 +72,9 @@ that contains our homework, take-home quizzes, videos, tests, tutorials, study a
 our textbook.
 
 ## Course Objectives:
+
 Upon successful completion of this course, students will be able to:
+
 * Define and identify a function, and classify if a relationship represents a function or not based on a
 graph, a set of ordered pairs, a mapping or an equation.
 * Convert degrees to radians, and radians to degrees.

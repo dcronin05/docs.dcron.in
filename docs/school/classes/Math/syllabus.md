@@ -150,11 +150,13 @@ ally, they have computers and internet access for students to use to complete We
 ## Evaluation
 
 Grades will be calculated using homework, quizzes, a Midterm exam and a Final exam.
+
 * **Homework (300 pts total)**: Students will earn points per section for completing the graded
 homework according to accuracy by the deadline. Extensions on homework may be requested
 by email, and maybe available already on Hawkes. Late assignments be decreased by 3% of the
 unearned points per day. Homework is graded immediately upon submission. Homework will be due
 on Monday before class (exception first assingment).
+
 * **Take-Home Quizzes (150 pts total)**: Students will earn points from a quiz over each unit. A
 quiz will be assigned at the end of each unit. Once assigned, the students will have one week to
 complete and will need to be turned in either in-person or on Blackboard by the start of class of the
@@ -164,6 +166,7 @@ pen for intiial quiz and corrections, as I grade in that color. These are hand-w
 Also note, that for problems on these that require extensive work, I require thorough work or correct
 explanation of steps to be shown to get full credit. For these types of problems only a correct answer
 will not given full credit.
+
 * **Exams (Midterm 150 pts, Final 200 pts)**: Midterm will be taken in-person Friday, March 13th
 from 8:00-8:50am and Final will be Wednesday, May 6th from 8:00-10:00am. With the preset dates
 being given at the beginning of semester, makeup exams are not given, without prior permission.
@@ -173,10 +176,10 @@ will not given full credit. No corrections will be allowed on exams.
 
 Grades will be calculated on a 800 point total.
 
-**A** 720 – 400 points
-**B** 640– 719 points
-**C** 560 – 639 points
-**D** 480 – 559 points
+**A** 720 – 400 points<br>
+**B** 640– 719 points<br>
+**C** 560 – 639 points<br>
+**D** 480 – 559 points<br>
 **F** 0 – 479 points
 
 ## Extra Credit
@@ -261,6 +264,7 @@ social norms exist in other places, there is a culture and correlating set of st
 is an ever-changing environment, these expectations also change and grow accordingly. The following
 guidelines are recommended in an effort to achieve effective communication in a positive distance learning
 environment.
+
 * Refrain from using inappropriate, and/or offensive language. Be respectful of the other students and
 instructors when participating in a discussion environment.
 * Adhere to the same standards of behavior online that you follow in your professional context or

@@ -86,35 +86,35 @@ If you are a student with a disability, or if you simply want to discuss resourc
 
 ### Non-Discrimination Policy
 
-https://ualr.edu/policy/home/admin/non-discrimination/ 
+- [https://ualr.edu/policy/home/admin/non-discrimination/ ]()
 
 ### Title IX and Harassment 
 
-- https://ualr.edu/titleix/titleix/title-ix-the-basics/ 
+- [https://ualr.edu/titleix/titleix/title-ix-the-basics/ ]()
 
 ### Inclement Weather Policy 
 
-- https://ualr.edu/policy/home/admin/weather/ 
+- [[https://ualr.edu/policy/home/admin/weather/]()]()
 
 ### Academic Integrity 
 
-- https://ualr.edu/deanofstudents/academic-integrity/ 
+- [https://ualr.edu/deanofstudents/academic-integrity/ ]()
 
 ### Disclosure of Instances of Sexual Misconduct 
 
-- https://ualr.edu/policy/home/facstaff/title-ix/ 
+- [https://ualr.edu/policy/home/facstaff/title-ix/ ]()
 
 ### Withdrawal 
 
-- https://ualr.edu/policy/home/student/withdrawal-from-ualr/ 
+- [https://ualr.edu/policy/home/student/withdrawal-from-ualr/ ]()
 
 ### Add/Drop 
 
-- https://ualr.edu/records/2511-2/ 
+- [https://ualr.edu/records/2511-2/ ]()
 
 ### Incomplete 
 
-- https://ualr.edu/records/grades/ 
+- [https://ualr.edu/records/grades/ ]()
 
 ### Grade Policies 
 
@@ -189,62 +189,81 @@ Failure to adhere to these constraints may be treated as academic misconduct.
 ## Helpful University Resources 
 
 Blackboard Student Support 
-https://ualr.edu/blackboard/contact/ 
+
+- [https://ualr.edu/blackboard/contact/ ]()
 
 Bookstore 
-https://ualr.bncollege.com/ 
+
+- [https://ualr.bncollege.com/ ]()
 
 Care Team 
-https://ualr.edu/studentsuccess/care-team/ 
+
+- [https://ualr.edu/studentsuccess/care-team/ ]()
 
 Career Center 
-https://ualr.edu/careers/ 
+
+- [https://ualr.edu/careers/ ]()
 
 Child Care Connections 
-https://ualr.edu/studentsuccess/child-care-connections/ 
+
+- [https://ualr.edu/studentsuccess/child-care-connections/ ]()
 
 Disabilities Resource Center 
-https://ualr.edu/disability/ 
+
+- [https://ualr.edu/disability/ ]()
 
 Communication Skill Center (CSC) 
-https://ualr.edu/appliedcomm/communication-skill-center-csc/ 
+
+- [https://ualr.edu/appliedcomm/communication-skill-center-csc/ ]()
 
 Counseling
-https://ualr.edu/counseling/
+
+- [https://ualr.edu/counseling/]()
 
 Handshake
-https://ualr.joinhandshake.com/login 
+
+- [https://ualr.joinhandshake.com/login ]()
 
 Health Services
-https://ualr.edu/health/
+
+- [https://ualr.edu/health/]()
 
 Information Technology Services (ITS)
-https://ualr.edu/itservices/welcome/
+
+- [https://ualr.edu/itservices/welcome/]()
 
 Mathematics Assistance Center
-https://ualr.edu/mathematics/mathematics-assistance-center/
+
+- [https://ualr.edu/mathematics/mathematics-assistance-center/]()
 
 Military Student Success Center
-https://ualr.edu/military/
+
+- [https://ualr.edu/military/]()
 
 Office of Student Retention Initiatives (SRI)
-https://ualr.edu/studentsuccess/academic-resources/coaching-and-student-support/
+
+- [https://ualr.edu/studentsuccess/academic-resources/coaching-and-student-support/]()
 
 Student Support Services (SSS)
-https://ualr.edu/studentsupport/
+
+- [https://ualr.edu/studentsupport/]()
 
 Trojan Tutoring (i.e. introductory-level courses only) via University Learning
 Commons 
-https://ualr.edu/studentsuccess/academic-resources/
+
+- [https://ualr.edu/studentsuccess/academic-resources/]()
 
 UA Little Rock Trojan Food Pantry
-https://ualr.edu/foodpantry/
+
+- [https://ualr.edu/foodpantry/]()
 
 University Writing Center (UWC)
-https://ualr.edu/writingcenter/
+
+- [https://ualr.edu/writingcenter/]()
 
 Ottenheimer Library
-https://ualr.edu/library/
+
+- [https://ualr.edu/library/]()
 
 ## Tentative Course Schedule
 

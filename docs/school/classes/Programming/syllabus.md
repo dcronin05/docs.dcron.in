@@ -118,7 +118,7 @@ If you are a student with a disability, or if you simply want to discuss resourc
 
 ### Grade Policies 
 
-- https://ualr.edu/policy/home/facstaff/grades-and-grading-systems/ 
+- [https://ualr.edu/policy/home/facstaff/grades-and-grading-systems/ ]()
 
 ## Course Policies 
 

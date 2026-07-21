@@ -2,14 +2,12 @@ site_name: dcron.in
 site_url: http://docs.dcron.in
 
 plugins:
-  - caption:
-      figure:
-        enable: false
   - tags:
       tags_file: tags.md
   - include-markdown
   - search
   - thumbnails
+  # Note: mkdocs-caption was disabled previously, so it has been removed here.
 
 extra_css:
   - stylesheets/extra.css
@@ -25,17 +23,15 @@ markdown_extensions:
   - md_in_html
   - attr_list
   - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
+  - admonition
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
-  - pymdownx.inlinehilite:
-  - pymdownx.snippets:
-  - admonition
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
@@ -51,24 +47,21 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-  - markdown.extensions.attr_list
 
 theme:
+  name: material
+  custom_dir: overrides
   favicon: favicon.png
   icon:
     logo: custom/logo
     annotation: material/plus-circle-outline
     admonition:
       abstract: custom/square-phone-solid
-  name: material
-  custom_dir: overrides
   palette:
     scheme: slate
     primary: dcronin
     accent: dcronin
-
   features:
-    - content.code.select
     - content.code.copy
     - content.code.select
     - navigation.tabs

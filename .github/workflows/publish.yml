@@ -52,7 +52,8 @@ jobs:
               "action": "published",
               "commits": [
                 {
-                  "message": "${{ github.event.head_commit.message }}"
+                  "message": "${{ github.event.head_commit.message }}",
+                  "url": "${{ github.event.head_commit.url }}"
                 }
               ]
             }'

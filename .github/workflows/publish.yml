@@ -41,3 +41,18 @@ jobs:
           context: .
           push: true
           tags: ghcr.io/${{ github.repository }}:latest
+
+      - name: Announce Deployment on Bluesky & Discord
+        run: |
+          curl -k -X POST https://webhook.dcron.in/webhook \
+            -H "Content-Type: application/json" \
+            -H "x-webhook-secret: ezp5-yend-wmfx-yyjv" \
+            -d '{
+              "repository": { "name": "${{ github.event.repository.name }}" },
+              "action": "published",
+              "commits": [
+                {
+                  "message": "${{ github.event.head_commit.message }}"
+                }
+              ]
+            }'
